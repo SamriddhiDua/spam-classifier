@@ -128,15 +128,15 @@ Confidence: 98.5%
 
 ### Dataset Preview
 
-![Dataset](dataset.png.png)
+![Dataset](dataset.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### Gradio Interface
 
-![Gradio Demo](gradio_demo.png.png)
+![Gradio Demo](gradio_demo.png)
 
 ---
 
